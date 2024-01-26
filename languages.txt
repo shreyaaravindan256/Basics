@@ -1,0 +1,3 @@
+My favorite programming language is Python because it is not as verbose as other programming languages. 
+
+Java is the language that I am most experienced with.
